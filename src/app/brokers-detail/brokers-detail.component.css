@@ -1,0 +1,40 @@
+@media (min-width: 1200px) {
+    .footer-background {
+        background: bottom right url(../../assets/images/five-insurance-company-footer.svg) no-repeat;
+        -moz-background-size: 180px auto;
+        -o-background-size: 180px auto;
+        -webkit-background-size: 180px auto;
+        background-size: 180px auto;
+    }
+    }
+
+    .nav-tabs.wizard {
+
+        border-bottom: 2px solid #2d2d2d!important;
+      }
+
+    i.fa-pencil{
+        color: #c4d500;
+        padding-right: 10px;
+        font-size: 20px;
+    }
+
+    .btn-color{
+        color: #c4d500;
+        padding-right: 10px;
+        font-size: 20px;
+    }
+
+    .btn-color1{
+        color: red;
+        padding-right: 10px;
+        font-size: 20px;
+    }
+
+
+    ul.dropdown-list-left li{    padding: 15px 0;
+        padding-left: 20px;}
+    ul.dropdown-list-left{padding:0px; margin-bottom: 0px;}
+    .dropdown-list-left-common{background-color:rgb(240,240,240);     border-bottom: 2px solid #2d2d2d!important;}
+    ul.dropdown-list-left li.active{    background-color: black; color:#fff;}
+    
